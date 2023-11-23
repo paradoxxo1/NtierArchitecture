@@ -1,10 +1,11 @@
 # NtierArchitecture
 
 Bu proje, .NET 7.0 ile geliştirilmiş bir Web API uygulamasını içermektedir. Temel seviyeden başlayarak ileri seviye konulara kadar geniş bir yelpazede konuları kapsamaktadır. Proje, .NET 7.0'un sunduğu güncel özellikleri ve en iyi uygulama prensiplerini kullanarak güçlü bir backend mimarisini hedefler.  
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+
 
 # İÇERİK
 Proje içeriği aşağıdaki başlıkları kapsamaktadır:
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
 - .NET 7.0 ile Web API projesi oluşturulması
 - N katmanlı mimari yapısı
