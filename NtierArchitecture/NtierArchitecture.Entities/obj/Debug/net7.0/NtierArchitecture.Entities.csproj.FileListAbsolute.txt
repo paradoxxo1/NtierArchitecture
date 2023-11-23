@@ -1,0 +1,12 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\bin\Debug\net7.0\NtierArchitecture.Entities.deps.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\bin\Debug\net7.0\NtierArchitecture.Entities.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\bin\Debug\net7.0\NtierArchitecture.Entities.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net7.0\NtierArchitecture.Entities.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net7.0\NtierArchitecture.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net7.0\NtierArchitecture.Entities.AssemblyInfoInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net7.0\NtierArchitecture.Entities.AssemblyInfo.cs
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net7.0\NtierArchitecture.Entities.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net7.0\NtierArchitecture.Entities.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net7.0\refint\NtierArchitecture.Entities.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net7.0\NtierArchitecture.Entities.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Entities\obj\Debug\net7.0\ref\NtierArchitecture.Entities.dll

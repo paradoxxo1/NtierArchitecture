@@ -1,0 +1,15 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\bin\Debug\net7.0\NtierArchitecture.Business.deps.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\bin\Debug\net7.0\NtierArchitecture.Business.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\bin\Debug\net7.0\NtierArchitecture.Business.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\bin\Debug\net7.0\NtierArchitecture.Entities.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\bin\Debug\net7.0\NtierArchitecture.Entities.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\obj\Debug\net7.0\NtierArchitecture.Business.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\obj\Debug\net7.0\NtierArchitecture.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\obj\Debug\net7.0\NtierArchitecture.Business.AssemblyInfoInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\obj\Debug\net7.0\NtierArchitecture.Business.AssemblyInfo.cs
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\obj\Debug\net7.0\NtierArchitecture.Business.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\obj\Debug\net7.0\NtierArchitecture.Business.csproj.CopyComplete
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\obj\Debug\net7.0\NtierArchitecture.Business.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\obj\Debug\net7.0\refint\NtierArchitecture.Business.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\obj\Debug\net7.0\NtierArchitecture.Business.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.Business\obj\Debug\net7.0\ref\NtierArchitecture.Business.dll

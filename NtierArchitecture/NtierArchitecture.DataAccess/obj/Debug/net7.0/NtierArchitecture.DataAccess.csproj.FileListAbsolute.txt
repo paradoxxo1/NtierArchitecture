@@ -1,0 +1,17 @@
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\bin\Debug\net7.0\NtierArchitecture.DataAccess.deps.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\bin\Debug\net7.0\NtierArchitecture.DataAccess.runtimeconfig.json
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\bin\Debug\net7.0\NtierArchitecture.DataAccess.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\bin\Debug\net7.0\NtierArchitecture.DataAccess.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\bin\Debug\net7.0\NtierArchitecture.Entities.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\bin\Debug\net7.0\NtierArchitecture.Entities.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\obj\Debug\net7.0\NtierArchitecture.DataAccess.csproj.AssemblyReference.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\obj\Debug\net7.0\NtierArchitecture.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\obj\Debug\net7.0\NtierArchitecture.DataAccess.AssemblyInfoInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\obj\Debug\net7.0\NtierArchitecture.DataAccess.AssemblyInfo.cs
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\obj\Debug\net7.0\NtierArchitecture.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\obj\Debug\net7.0\NtierArchitecture.DataAccess.csproj.CopyComplete
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\obj\Debug\net7.0\NtierArchitecture.DataAccess.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\obj\Debug\net7.0\refint\NtierArchitecture.DataAccess.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\obj\Debug\net7.0\NtierArchitecture.DataAccess.pdb
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\obj\Debug\net7.0\NtierArchitecture.DataAccess.genruntimeconfig.cache
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitecture.DataAccess\obj\Debug\net7.0\ref\NtierArchitecture.DataAccess.dll
