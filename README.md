@@ -5,7 +5,7 @@ Bu proje, .NET 7.0 ile geliştirilmiş bir Web API uygulamasını içermektedir.
 
 # İÇERİK
 Proje içeriği aşağıdaki başlıkları kapsamaktadır:
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+<img align="right" alt="Coder GIF" height=350 width=550 src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
 
 - .NET 7.0 ile Web API projesi oluşturulması
 - N katmanlı mimari yapısı
