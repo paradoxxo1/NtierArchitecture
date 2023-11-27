@@ -18,6 +18,7 @@ Proje içeriği aşağıdaki başlıkları kapsamaktadır:
 - Caching
 - ORM (Object-Relational Mapping)
 - SQL Server üzerinden ilişkili veritabanı oluşturulması
+- Authentication ve Authorization özellikleri projeye dahil edildi.
 
 # ÖĞRENİLECEKLER
 Bu projede öğrenebileceğiniz bazı konular şunlardır:
