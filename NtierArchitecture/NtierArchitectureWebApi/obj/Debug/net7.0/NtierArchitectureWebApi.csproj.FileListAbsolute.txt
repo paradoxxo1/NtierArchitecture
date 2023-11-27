@@ -89,3 +89,4 @@ C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitectureW
 C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitectureWebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitectureWebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitectureWebApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\isagok.ALTINSOYENERJI\source\repos\NtierArchitecture\NtierArchitectureWebApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

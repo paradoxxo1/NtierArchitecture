@@ -1,13 +1,10 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using NtierArchitecture.Business.Features.Categories.CreateCategory;
-using NtierArchitecture.Business.Features.Categories.GetCategories;
-using NtierArchitecture.Business.Features.Categories.RemoveCategory;
-using NtierArchitecture.Business.Features.Categories.UpdateCategory;
 using NtierArchitecture.Business.Features.Products.CreateProduct;
 using NtierArchitecture.Business.Features.Products.GetProducts;
 using NtierArchitecture.Business.Features.Products.RemoveProductById;
 using NtierArchitecture.Business.Features.Products.UpdateProduct;
+using NtierArchitecture.DataAccess.Authorization;
 using NtierArchitectureWebApi.Abstractions;
 
 namespace NtierArchitectureWebApi.Controllers
@@ -20,6 +17,8 @@ namespace NtierArchitectureWebApi.Controllers
 
 
         [HttpPost]
+        [RoleFilter("Product.Add")]
+
         public async Task<IActionResult> Add(CreateProductCommand request, CancellationToken cancellationToken)
         {
             await _mediator.Send(request, cancellationToken);
@@ -28,6 +27,8 @@ namespace NtierArchitectureWebApi.Controllers
         }
 
         [HttpPost]
+        [RoleFilter("Product.Update")]
+
         public async Task<IActionResult> Update(UpdateProductCommand request, CancellationToken cancellationToken)
         {
             await _mediator.Send(request, cancellationToken);
@@ -36,6 +37,8 @@ namespace NtierArchitectureWebApi.Controllers
         }
 
         [HttpPost]
+        [RoleFilter("Product.Remov")]
+
         public async Task<IActionResult> RemoveById(RemoveProductByIdCommand request, CancellationToken cancellationToken)
         {
             await _mediator.Send(request, cancellationToken);
@@ -43,6 +46,8 @@ namespace NtierArchitectureWebApi.Controllers
             return NoContent();
         }
         [HttpPost]
+        [RoleFilter("Product.GetAll")]
+
         public async Task<IActionResult> GetAll(GetProductsQuery request, CancellationToken cancellationToken)
         {
             var response = await _mediator.Send(request, cancellationToken);

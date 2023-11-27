@@ -1,5 +1,4 @@
 ﻿using NtierArchitecture.Entities.Abstractions;
-using System.ComponentModel;
 
 namespace NtierArchitecture.Entities.Models;
 

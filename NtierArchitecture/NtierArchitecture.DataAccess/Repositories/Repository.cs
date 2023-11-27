@@ -20,6 +20,11 @@ namespace NtierArchitecture.DataAccess.Repositories
             await _context.Set<T>().AddAsync(entity, cancellationToken);
         }
 
+        public bool Any(Expression<Func<T, bool>> expression)
+        {
+            return _context.Set<T>().Any(expression);
+        }
+
         public async Task<bool> AnyAsync(Expression<Func<T, bool>> expression, CancellationToken cancellationToken = default)
         {
             return await _context.Set<T>().AnyAsync(expression, cancellationToken);

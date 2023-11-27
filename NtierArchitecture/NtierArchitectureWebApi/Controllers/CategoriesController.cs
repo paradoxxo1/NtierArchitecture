@@ -4,10 +4,7 @@ using NtierArchitecture.Business.Features.Categories.CreateCategory;
 using NtierArchitecture.Business.Features.Categories.GetCategories;
 using NtierArchitecture.Business.Features.Categories.RemoveCategory;
 using NtierArchitecture.Business.Features.Categories.UpdateCategory;
-using NtierArchitecture.Business.Features.Products.CreateProduct;
-using NtierArchitecture.Business.Features.Products.GetProducts;
-using NtierArchitecture.Business.Features.Products.RemoveProductById;
-using NtierArchitecture.Business.Features.Products.UpdateProduct;
+using NtierArchitecture.DataAccess.Authorization;
 using NtierArchitectureWebApi.Abstractions;
 
 namespace NtierArchitectureWebApi.Controllers
@@ -19,6 +16,7 @@ namespace NtierArchitectureWebApi.Controllers
         }
 
         [HttpPost]
+        [RoleFilter("Category.Add")]
         public async Task<IActionResult> Add(CreateCategoryCommand request, CancellationToken cancellationToken)
         {
             await _mediator.Send(request, cancellationToken);
@@ -27,6 +25,8 @@ namespace NtierArchitectureWebApi.Controllers
         }
 
         [HttpPost]
+        [RoleFilter("Category.Update")]
+
         public async Task<IActionResult> Update(UpdateCategoryCommand request, CancellationToken cancellationToken)
         {
             await _mediator.Send(request, cancellationToken);
@@ -35,6 +35,8 @@ namespace NtierArchitectureWebApi.Controllers
         }
 
         [HttpPost]
+        [RoleFilter("Category.Remove")]
+
         public async Task<IActionResult> RemoveById(RemoveCategoryByIdCommand request, CancellationToken cancellationToken)
         {
             await _mediator.Send(request, cancellationToken);
@@ -42,6 +44,8 @@ namespace NtierArchitectureWebApi.Controllers
             return NoContent();
         }
         [HttpPost]
+        [RoleFilter("Category.GetAll")]
+
         public async Task<IActionResult> GetAll(GetCategoriesQuery request, CancellationToken cancellationToken)
         {
             var response = await _mediator.Send(request, cancellationToken);
